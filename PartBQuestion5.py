@@ -1,3 +1,5 @@
+#https://codeforces.com/problemset/problem/2010/C1
+
 def messageError(string):
     
     n = len(string)

@@ -1,3 +1,5 @@
+#https://codeforces.com/problemset/problem/10/A
+
 def power_consumption(n, p1, p2, p3, t1, t2, interval_list):
     total = 0
     previous_end = interval_list[0][0]

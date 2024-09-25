@@ -1,3 +1,5 @@
+#https://codeforces.com/contest/2010/problem/A
+
 def alternatingSum(t, test_cases):
     results = []
 

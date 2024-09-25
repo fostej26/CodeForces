@@ -1,3 +1,5 @@
+#https://codeforces.com/problemset/problem/11/A
+
 def increasingSequence(n, d, sequence):
     moves = 0
     for i in range(1, n):

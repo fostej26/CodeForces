@@ -1,3 +1,5 @@
+#https://codeforces.com/problemset/gymProblem/102697/187
+
 def mountainBiking(n, elevationList):
     incline = 0
     max_incline = 0

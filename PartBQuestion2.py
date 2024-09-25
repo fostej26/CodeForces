@@ -1,3 +1,5 @@
+#https://codeforces.com/problemset/problem/12/B
+
 def correctSolution(alice, bob):
     alice.sort()
     index = 1
